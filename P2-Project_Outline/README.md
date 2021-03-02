@@ -4,15 +4,62 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
-## Submission Instructions
+MyRoutine
 
-### Overview
-Include overview here
-### Features
-Include Features here
-### Technologies
-Include Technologies here
-### What I'll Have to Learn
-Include what you will need to learn here
+Overview
+
+The goal of the MyRoutine is to follow the routines of the children at home and gain some habits in a fun way.In the app, children can visually see the routines they will do and earn points when they complete the routines.Also, parents can add to the habits they want to give their children to the app.
+
+Features
+
+Create account
+user Login/Logout
+Categorized routine
+Add Score
+Add routine
+
+Technologies
+
+JavaScript
+Angular
+CSS
+Bootstrap
+Postman
+
+What I'll Have to Learn
+
+authentication
+postman
+json
+
 ### Project Tracker
-Link to your Trello board here
+
+
+CarInventory
+
+Overview
+The purpose of this application is to enable the car dealer to track the car stock on a more dynamic page instead of an Excel file.Purchase date, sale date,sale price, purchase price , model, milega etc. of cars can be added and deleted.Also, extra cost like inpector,cleaning can be added.So, information about each car can be easily accessed.
+
+Features
+
+Create account
+user Login/Logout
+Add information
+Add car
+Delete car
+
+Technologies
+C#
+JavaScript
+Html
+CSS
+Bootstrap
+Postman
+MySQL
+
+
+What I'll Have to Learn
+
+authentication
+postman
+MySQL
